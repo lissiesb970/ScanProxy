@@ -22,12 +22,12 @@ Mở Command Prompt (CMD) hoặc Terminal và chạy lệnh sau để cài thư 
 pip install requests
 ```
 
-### Bước 2: Vào (Dist) chạy lệnh & khởi động get proxy
+### Bước 2: [Open in Integrated Terminal] File (Dist) chạy lệnh & khởi động get proxy:
 
 ```bash
 python checkproxy.py 
 ```
-### Bước 3: Nhập Token & lấy proxy 
+### Bước 3: Nhập Token & lấy proxy :
 
 ```bash
 Khi chương trình yêu cầu, dán Token của bạn vào và nhấn Enter.
